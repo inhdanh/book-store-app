@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/inhdanh/book-store-app/issues"
   },
-  "homepage": "https://github.com/inhdanh/book-store-app#readme"
+  "homepage": "https://github.com/inhdanh/book-store-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
