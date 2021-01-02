@@ -1,0 +1,23 @@
+{
+  "name": "book-store-app",
+  "version": "1.0.0",
+  "description": "A books store website app by NodeJs and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inhdanh/book-store-app.git"
+  },
+  "keywords": [
+    "store.",
+    "book"
+  ],
+  "author": "danh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inhdanh/book-store-app/issues"
+  },
+  "homepage": "https://github.com/inhdanh/book-store-app#readme"
+}
